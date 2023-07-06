@@ -8,20 +8,20 @@ e inseritela in un file .txt all'interno della repo, proprio come fatto stamatti
 Nome della tabella:  Used Cars
 
 
-id
+id                             intero
 
-isbn_13
+isbn_13                        stringa
 
-Nome Modello
+Nome Modello                   stringa 
 
-Nome Costruttore
+Nome Costruttore               stringa
 
-Tipo di Motore
+Tipo di Motore                 stringa
 
-Anno di produzione
+Anno di produzione             data
 
-Kilometraggio
+Kilometraggio                  intero
 
-colore
+colore                         stringa
 
 
