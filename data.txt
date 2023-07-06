@@ -1,0 +1,27 @@
+
+
+
+Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario,
+e inseritela in un file .txt all'interno della repo, proprio come fatto stamattina insieme.
+
+
+Nome della tabella:  Used Cars
+
+
+id
+
+isbn_13
+
+Nome Modello
+
+Nome Costruttore
+
+Tipo di Motore
+
+Anno di produzione
+
+Kilometraggio
+
+colore
+
+
